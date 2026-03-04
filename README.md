@@ -1,6 +1,6 @@
 # Hi, I'm Fathi 👋
 
-Software Engineer focused on **Backend Development, Data Engineering, Mobile Apps, and Full-Stack systems**.
+Software Engineer focused on **Frontend Development , Backend Development, Data Engineering, Mobile Apps, and Full-Stack systems**.
 I enjoy building scalable APIs, data pipelines, and production-ready applications.
 
 📍 Denmark
