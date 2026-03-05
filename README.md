@@ -40,9 +40,9 @@ Building data platforms, scalable APIs, and mobile applications.
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathionsons&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fathionsons&show_icons=true&theme=github_dark&cache_seconds=86400&v=1" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathionsons&layout=compact&theme=github_dark&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathionsons&layout=compact&theme=github_dark&cache_seconds=86400&v=1" />
 ---
 
 ## 📈 Contribution Activity
