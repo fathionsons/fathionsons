@@ -1,4 +1,9 @@
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fathionsons&color=blue&style=for-the-badge)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Fathi+%F0%9F%91%8B;Backend+%E2%80%A2+Data+Engineering+%E2%80%A2+Mobile+%E2%80%A2+Full-stack;DTU+%E2%80%A2+HackYourFuture+%E2%80%A2+SmartService+ApS" />
+</p>
 
 # Hi, I'm Fathi 👋
 
