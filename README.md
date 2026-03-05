@@ -64,11 +64,6 @@ Building data platforms, scalable APIs, and mobile applications.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fathionsons&theme=github-dark)
 
 ---
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=fathionsons&theme=darkhub&no-frame=true&column=6" />
-
---- 
 ## 🤝 Connect with me
 
 💼 LinkedIn  
