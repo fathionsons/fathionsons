@@ -65,6 +65,10 @@ Building data platforms, scalable APIs, and mobile applications.
 
 ---
 
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=fathionsons&theme=darkhub&no-frame=true&column=6" />
+
+--- 
 ## 🤝 Connect with me
 
 💼 LinkedIn  
