@@ -47,10 +47,10 @@ Building data platforms, scalable APIs, and mobile applications.
 
 ## 🚀 What I'm focusing on
 
-- Building scalable **data platforms and pipelines**
-- Backend architecture and API design
-- Mobile application development
-- Cloud-based data engineering workflows
+- Building **data pipelines** and analytics-ready datasets (ETL/ELT)
+- Designing **clean APIs** and scalable backend architecture
+- Shipping **mobile apps** with solid UX and reliable integrations
+- Improving engineering quality: testing, CI/CD, performance
 
 ---
 
