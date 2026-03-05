@@ -1,73 +1,58 @@
+![Profile Views](https://komarev.com/ghpvc/?username=fathionsons&color=blue&style=for-the-badge)
+
 # Hi, I'm Fathi 👋
 
-Software Engineer focused on **Frontend Development , Backend Development, Data Engineering, Mobile Apps, and Full-Stack systems**.
-I enjoy building scalable APIs, data pipelines, and production-ready applications.
+Software Engineer
 
-📍 Denmark
-💼 LinkedIn: https://www.linkedin.com/in/fathifonsman/
+Backend • Data Engineering • Mobile • Full-stack
+
+DTU • HackYourFuture • SmartService ApS
+
+Building data platforms, scalable APIs, and mobile applications.
+
+📍 Denmark  
+🔗 https://github.com/fathionsons  
+💼 https://www.linkedin.com/in/fathifonsman/
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
-
-* Python
-* C#
-* JavaScript / TypeScript
-* SQL
-
-### Backend Development
-
-* Node.js
-* REST APIs
-* Microservices
-
-### Data Engineering
-
-* Data Pipelines
-* ETL / ELT
-* Data Modeling (Kimball)
-* Lakehouse Architecture (Bronze / Silver / Gold)
-
-### Mobile Development
-
-* React Native
-* Expo
-* Mobile UI / UX
-* API Integration
-
-### DevOps & Tools
-
-* Docker
-* GitHub Actions
-* Git
-
-### Databases
-
-* PostgreSQL
-* SQL Server
-* SQLite
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 What I'm focusing on
 
-* Building scalable **data platforms and pipelines**
-* Backend architecture and API design
-* Mobile application development
-* Cloud-based data engineering workflows
+- Building scalable **data platforms and pipelines**
+- Backend architecture and API design
+- Mobile application development
+- Cloud-based data engineering workflows
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathionsons\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathionsons&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathionsons\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathionsons&layout=compact&theme=github_dark)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fathionsons&theme=github-dark)
 
 ---
 
 ## 🤝 Connect with me
 
-LinkedIn: https://www.linkedin.com/in/fathifonsman/
+💼 LinkedIn  
+https://www.linkedin.com/in/fathifonsman/
