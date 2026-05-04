@@ -9,7 +9,7 @@
 
 Software Engineer
 
-Backend • Data Engineering • Mobile • Full-stack
+Backend • Frontend • Mobile • Full-stack
 
 DTU • HackYourFuture • SmartService ApS
 
